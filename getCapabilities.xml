@@ -3,7 +3,7 @@
 	<Service>
 		<Name>OGC:WMS</Name>
 		<Title>CSR Web Map Service</Title>
-		<Abstract>Compliant WMS Response</Abstract>
+		<Abstract>Compliant WMS Response</Abstract>         
 		<KeywordList>
 			<Keyword>WFS</Keyword>
 			<Keyword>WMS</Keyword>
