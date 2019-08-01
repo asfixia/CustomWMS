@@ -296,8 +296,10 @@
 					<Keyword>GITHUB</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="-73.68999840826466" miny="-4251713.9839013135" maxx="4593879.251423973" maxy="4.484003128059363"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="1e+30" miny="1e+30" maxx="1e+30" maxy="1e+30"></BoundingBox>
+                
+        <LatLonBoundingBox minx="-73.6886747737218" miny="-33.7301625698743" maxx="-32.4004877229301" maxy="4.4826794935165"/>
+        <BoundingBox SRS="EPSG:4326" minx="-73.6886747737218" miny="-33.7301625698743" maxx="-32.4004877229301" maxy="4.4826794935165"/>
+				<!-- GERADO <BoundingBox SRS="EPSG:4326" minx="1e+30" miny="1e+30" maxx="1e+30" maxy="1e+30"></BoundingBox> !-->
 				<Style>
 					<Name>rodovias_1</Name>
 					<Title>rodovias_1</Title>
