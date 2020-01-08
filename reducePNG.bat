@@ -5,11 +5,11 @@ setlocal ENABLEDELAYEDEXPANSION
 cd "%1"
 
 for /R %%i IN (*.png) do (
-	"%~dp0\pngout.exe" "%%i" /y /s0 /f0
-	"%~dp0\pngout.exe" "%%i" /y /s0 /f1
-	"%~dp0\pngout.exe" "%%i" /y /s0 /f2
-	"%~dp0\pngout.exe" "%%i" /y /s0 /f3
-	"%~dp0\pngout.exe" "%%i" /y /s0 /f4
+rem	"%~dp0\pngout.exe" "%%i" /y /s0 /f0
+rem	"%~dp0\pngout.exe" "%%i" /y /s0 /f1
+rem	"%~dp0\pngout.exe" "%%i" /y /s0 /f2
+rem	"%~dp0\pngout.exe" "%%i" /y /s0 /f3
+rem	"%~dp0\pngout.exe" "%%i" /y /s0 /f4
 	"%~dp0\pngout.exe" "%%i" /y /s0 /f5
-	"%~dp0\pngout.exe" "%%i" /y /s0 /f6
+rem	"%~dp0\pngout.exe" "%%i" /y /s0 /f6
 )
