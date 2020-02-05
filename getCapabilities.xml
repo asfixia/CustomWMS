@@ -206,7 +206,7 @@
 				<Width>256</Width>
 				<Height>256</Height>
 				<Format>image/png</Format>
-				<Layers>GH:Países</Layers>
+				<Layers>GH:estradas_vicinais_2</Layers>
 				<Styles></Styles>
 			</TileSet>
 			<TileSet>
@@ -216,7 +216,47 @@
 				<Width>256</Width>
 				<Height>256</Height>
 				<Format>image/png</Format>
-				<Layers>GH:Países</Layers>
+				<Layers>GH:estradas_vicinais_2</Layers>
+				<Styles></Styles>
+			</TileSet>
+			<TileSet>
+				<SRS>EPSG:4326</SRS>
+				<BoundingBox SRS="EPSG:4326" minx="-180.0" miny="-90.0" maxx="0.0" maxy="90.0"></BoundingBox>
+				<Resolutions>0.703125 0.3515625 0.17578125 0.087890625 0.0439453125 0.02197265625 0.010986328125 0.0054931640625 0.00274658203125 0.001373291015625 6.866455078125E-4 3.4332275390625E-4 1.71661376953125E-4 8.58306884765625E-5 4.291534423828125E-5 2.1457672119140625E-5 1.0728836059570312E-5 5.364418029785156E-6 2.682209014892578E-6 1.341104507446289E-6 6.705522537231445E-7 3.3527612686157227E-7</Resolutions>
+				<Width>256</Width>
+				<Height>256</Height>
+				<Format>image/png</Format>
+				<Layers>GH:yield_brazil_nut</Layers>
+				<Styles></Styles>
+			</TileSet>
+			<TileSet>
+				<SRS>EPSG:900913</SRS>
+				<BoundingBox SRS="EPSG:900913" minx="-2.003750834E7" miny="-2.003750834E7" maxx="2.003750834E7" maxy="2.003750834E7"></BoundingBox>
+				<Resolutions>156543.03390625 78271.516953125 39135.7584765625 19567.87923828125 9783.939619140625 4891.9698095703125 2445.9849047851562 1222.9924523925781 611.4962261962891 305.74811309814453 152.87405654907226 76.43702827453613 38.218514137268066 19.109257068634033 9.554628534317017 4.777314267158508 2.388657133579254 1.194328566789627 0.5971642833948135 0.29858214169740677 0.14929107084870338 0.07464553542435169 0.037322767712175846 0.018661383856087923 0.009330691928043961 0.004665345964021981 0.0023326729820109904 0.0011663364910054952 5.831682455027476E-4 2.915841227513738E-4 1.457920613756869E-4</Resolutions>
+				<Width>256</Width>
+				<Height>256</Height>
+				<Format>image/png</Format>
+				<Layers>GH:yield_brazil_nut</Layers>
+				<Styles></Styles>
+			</TileSet>
+			<TileSet>
+				<SRS>EPSG:4326</SRS>
+				<BoundingBox SRS="EPSG:4326" minx="-180.0" miny="-90.0" maxx="0.0" maxy="90.0"></BoundingBox>
+				<Resolutions>0.703125 0.3515625 0.17578125 0.087890625 0.0439453125 0.02197265625 0.010986328125 0.0054931640625 0.00274658203125 0.001373291015625 6.866455078125E-4 3.4332275390625E-4 1.71661376953125E-4 8.58306884765625E-5 4.291534423828125E-5 2.1457672119140625E-5 1.0728836059570312E-5 5.364418029785156E-6 2.682209014892578E-6 1.341104507446289E-6 6.705522537231445E-7 3.3527612686157227E-7</Resolutions>
+				<Width>256</Width>
+				<Height>256</Height>
+				<Format>image/png</Format>
+				<Layers>GH:yield_rubber</Layers>
+				<Styles></Styles>
+			</TileSet>
+			<TileSet>
+				<SRS>EPSG:900913</SRS>
+				<BoundingBox SRS="EPSG:900913" minx="-2.003750834E7" miny="-2.003750834E7" maxx="2.003750834E7" maxy="2.003750834E7"></BoundingBox>
+				<Resolutions>156543.03390625 78271.516953125 39135.7584765625 19567.87923828125 9783.939619140625 4891.9698095703125 2445.9849047851562 1222.9924523925781 611.4962261962891 305.74811309814453 152.87405654907226 76.43702827453613 38.218514137268066 19.109257068634033 9.554628534317017 4.777314267158508 2.388657133579254 1.194328566789627 0.5971642833948135 0.29858214169740677 0.14929107084870338 0.07464553542435169 0.037322767712175846 0.018661383856087923 0.009330691928043961 0.004665345964021981 0.0023326729820109904 0.0011663364910054952 5.831682455027476E-4 2.915841227513738E-4 1.457920613756869E-4</Resolutions>
+				<Width>256</Width>
+				<Height>256</Height>
+				<Format>image/png</Format>
+				<Layers>GH:yield_rubber</Layers>
 				<Styles></Styles>
 			</TileSet>
 			<TileSet>
@@ -306,7 +346,7 @@
 				<Width>256</Width>
 				<Height>256</Height>
 				<Format>image/png</Format>
-				<Layers>GH:estradas_vicinais_2</Layers>
+				<Layers>GH:ignition_Canastra</Layers>
 				<Styles></Styles>
 			</TileSet>
 			<TileSet>
@@ -316,7 +356,7 @@
 				<Width>256</Width>
 				<Height>256</Height>
 				<Format>image/png</Format>
-				<Layers>GH:estradas_vicinais_2</Layers>
+				<Layers>GH:ignition_Canastra</Layers>
 				<Styles></Styles>
 			</TileSet>
 			<TileSet>
@@ -326,7 +366,7 @@
 				<Width>256</Width>
 				<Height>256</Height>
 				<Format>image/png</Format>
-				<Layers>GH:yield_brazil_nut</Layers>
+				<Layers>GH:ignition_Cerrado</Layers>
 				<Styles></Styles>
 			</TileSet>
 			<TileSet>
@@ -336,7 +376,7 @@
 				<Width>256</Width>
 				<Height>256</Height>
 				<Format>image/png</Format>
-				<Layers>GH:yield_brazil_nut</Layers>
+				<Layers>GH:ignition_Cerrado</Layers>
 				<Styles></Styles>
 			</TileSet>
 			<TileSet>
@@ -346,7 +386,7 @@
 				<Width>256</Width>
 				<Height>256</Height>
 				<Format>image/png</Format>
-				<Layers>GH:yield_rubber</Layers>
+				<Layers>GH:ignition_Veadeiros</Layers>
 				<Styles></Styles>
 			</TileSet>
 			<TileSet>
@@ -356,7 +396,7 @@
 				<Width>256</Width>
 				<Height>256</Height>
 				<Format>image/png</Format>
-				<Layers>GH:yield_rubber</Layers>
+				<Layers>GH:ignition_Veadeiros</Layers>
 				<Styles></Styles>
 			</TileSet>
 			<TileSet>
@@ -377,6 +417,46 @@
 				<Height>256</Height>
 				<Format>image/png</Format>
 				<Layers>GH:supressao</Layers>
+				<Styles></Styles>
+			</TileSet>
+			<TileSet>
+				<SRS>EPSG:4326</SRS>
+				<BoundingBox SRS="EPSG:4326" minx="-180.0" miny="-90.0" maxx="0.0" maxy="90.0"></BoundingBox>
+				<Resolutions>0.703125 0.3515625 0.17578125 0.087890625 0.0439453125 0.02197265625 0.010986328125 0.0054931640625 0.00274658203125 0.001373291015625 6.866455078125E-4 3.4332275390625E-4 1.71661376953125E-4 8.58306884765625E-5 4.291534423828125E-5 2.1457672119140625E-5 1.0728836059570312E-5 5.364418029785156E-6 2.682209014892578E-6 1.341104507446289E-6 6.705522537231445E-7 3.3527612686157227E-7</Resolutions>
+				<Width>256</Width>
+				<Height>256</Height>
+				<Format>image/png</Format>
+				<Layers>GH:Bioma Cerrado</Layers>
+				<Styles></Styles>
+			</TileSet>
+			<TileSet>
+				<SRS>EPSG:900913</SRS>
+				<BoundingBox SRS="EPSG:900913" minx="-2.003750834E7" miny="-2.003750834E7" maxx="2.003750834E7" maxy="2.003750834E7"></BoundingBox>
+				<Resolutions>156543.03390625 78271.516953125 39135.7584765625 19567.87923828125 9783.939619140625 4891.9698095703125 2445.9849047851562 1222.9924523925781 611.4962261962891 305.74811309814453 152.87405654907226 76.43702827453613 38.218514137268066 19.109257068634033 9.554628534317017 4.777314267158508 2.388657133579254 1.194328566789627 0.5971642833948135 0.29858214169740677 0.14929107084870338 0.07464553542435169 0.037322767712175846 0.018661383856087923 0.009330691928043961 0.004665345964021981 0.0023326729820109904 0.0011663364910054952 5.831682455027476E-4 2.915841227513738E-4 1.457920613756869E-4</Resolutions>
+				<Width>256</Width>
+				<Height>256</Height>
+				<Format>image/png</Format>
+				<Layers>GH:Bioma Cerrado</Layers>
+				<Styles></Styles>
+			</TileSet>
+			<TileSet>
+				<SRS>EPSG:4326</SRS>
+				<BoundingBox SRS="EPSG:4326" minx="-180.0" miny="-90.0" maxx="0.0" maxy="90.0"></BoundingBox>
+				<Resolutions>0.703125 0.3515625 0.17578125 0.087890625 0.0439453125 0.02197265625 0.010986328125 0.0054931640625 0.00274658203125 0.001373291015625 6.866455078125E-4 3.4332275390625E-4 1.71661376953125E-4 8.58306884765625E-5 4.291534423828125E-5 2.1457672119140625E-5 1.0728836059570312E-5 5.364418029785156E-6 2.682209014892578E-6 1.341104507446289E-6 6.705522537231445E-7 3.3527612686157227E-7</Resolutions>
+				<Width>256</Width>
+				<Height>256</Height>
+				<Format>image/png</Format>
+				<Layers>GH:Países</Layers>
+				<Styles></Styles>
+			</TileSet>
+			<TileSet>
+				<SRS>EPSG:900913</SRS>
+				<BoundingBox SRS="EPSG:900913" minx="-2.003750834E7" miny="-2.003750834E7" maxx="2.003750834E7" maxy="2.003750834E7"></BoundingBox>
+				<Resolutions>156543.03390625 78271.516953125 39135.7584765625 19567.87923828125 9783.939619140625 4891.9698095703125 2445.9849047851562 1222.9924523925781 611.4962261962891 305.74811309814453 152.87405654907226 76.43702827453613 38.218514137268066 19.109257068634033 9.554628534317017 4.777314267158508 2.388657133579254 1.194328566789627 0.5971642833948135 0.29858214169740677 0.14929107084870338 0.07464553542435169 0.037322767712175846 0.018661383856087923 0.009330691928043961 0.004665345964021981 0.0023326729820109904 0.0011663364910054952 5.831682455027476E-4 2.915841227513738E-4 1.457920613756869E-4</Resolutions>
+				<Width>256</Width>
+				<Height>256</Height>
+				<Format>image/png</Format>
+				<Layers>GH:Países</Layers>
 				<Styles></Styles>
 			</TileSet>
 		</VendorSpecificCapabilities>
@@ -489,22 +569,62 @@
 				</Style>
 			</Layer>
 			<Layer queryable="1" opaque="0">
-				<Name>GH:Países</Name>
-				<Title>GH:Países</Title>
-				<Abstract>GH:Países ABSTRACT</Abstract>
+				<Name>GH:estradas_vicinais_2</Name>
+				<Title>GH:estradas_vicinais_2</Title>
+				<Abstract>GH:estradas_vicinais_2 ABSTRACT</Abstract>
 				<KeywordList>
 					<Keyword>GITHUB</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="-179.99999999990004" miny="-89.99999999990007" maxx="179.9999998804901" maxy="83.66549110393127"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="179.9999998804901" miny="83.66549110393127" maxx="179.9999998804901" maxy="83.66549110393127"></BoundingBox>
+				<LatLonBoundingBox minx="-73.69810062239519" miny="-32.239548000000006" maxx="-34.87243799999999" maxy="4.785711461326863"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="-34.87243799999999" miny="4.785711461326862" maxx="-34.87243799999999" maxy="4.785711461326862"></BoundingBox>
 				<Style>
-					<Name>Países_1</Name>
-					<Title>Países_1</Title>
+					<Name>estradas_vicinais_2_1</Name>
+					<Title>estradas_vicinais_2_1</Title>
 					<Abstract></Abstract>
 					<LegendURL width="20" height="20">
 						<Format>image/png</Format>
-						<OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maps.csr.ufmg.br:443/geoserver/wms?request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=Países"></OnlineResource>
+						<OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maps.csr.ufmg.br:443/geoserver/wms?request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=estradas_vicinais_2"></OnlineResource>
+					</LegendURL>
+				</Style>
+			</Layer>
+			<Layer queryable="1" opaque="0">
+				<Name>GH:yield_brazil_nut</Name>
+				<Title>GH:yield_brazil_nut</Title>
+				<Abstract>GH:yield_brazil_nut ABSTRACT</Abstract>
+				<KeywordList>
+					<Keyword>GITHUB</Keyword>
+				</KeywordList>
+				<SRS>EPSG:4326</SRS>
+				<LatLonBoundingBox minx="-75.19766390347665" miny="-16.512585275234958" maxx="-42.86164283301098" maxy="6.6146916323307305"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="-51.000474267489054" miny="-31.999942947332638" maxx="-51.000474267489054" maxy="-31.999942947332638"></BoundingBox>
+				<Style>
+					<Name>yield_brazil_nut_1</Name>
+					<Title>yield_brazil_nut_1</Title>
+					<Abstract></Abstract>
+					<LegendURL width="20" height="20">
+						<Format>image/png</Format>
+						<OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maps.csr.ufmg.br:443/geoserver/wms?request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=yield_brazil_nut"></OnlineResource>
+					</LegendURL>
+				</Style>
+			</Layer>
+			<Layer queryable="1" opaque="0">
+				<Name>GH:yield_rubber</Name>
+				<Title>GH:yield_rubber</Title>
+				<Abstract>GH:yield_rubber ABSTRACT</Abstract>
+				<KeywordList>
+					<Keyword>GITHUB</Keyword>
+				</KeywordList>
+				<SRS>EPSG:4326</SRS>
+				<LatLonBoundingBox minx="-77.79653314337475" miny="-19.558648900999163" maxx="-40.14485391924783" maxy="7.248424645932109"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="-51.00044420598293" miny="-31.999937481421167" maxx="-51.00044420598293" maxy="-31.999937481421167"></BoundingBox>
+				<Style>
+					<Name>yield_rubber_1</Name>
+					<Title>yield_rubber_1</Title>
+					<Abstract></Abstract>
+					<LegendURL width="20" height="20">
+						<Format>image/png</Format>
+						<OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maps.csr.ufmg.br:443/geoserver/wms?request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=yield_rubber"></OnlineResource>
 					</LegendURL>
 				</Style>
 			</Layer>
@@ -589,62 +709,62 @@
 				</Style>
 			</Layer>
 			<Layer queryable="1" opaque="0">
-				<Name>GH:estradas_vicinais_2</Name>
-				<Title>GH:estradas_vicinais_2</Title>
-				<Abstract>GH:estradas_vicinais_2 ABSTRACT</Abstract>
+				<Name>GH:ignition_Canastra</Name>
+				<Title>GH:ignition_Canastra</Title>
+				<Abstract>GH:ignition_Canastra ABSTRACT</Abstract>
 				<KeywordList>
 					<Keyword>GITHUB</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="-73.69810062239519" miny="-32.239548000000006" maxx="-34.87243799999999" maxy="4.785711461326863"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="-34.87243799999999" miny="4.785711461326862" maxx="-34.87243799999999" maxy="4.785711461326862"></BoundingBox>
+				<LatLonBoundingBox minx="0.0" miny="0.0" maxx="0.0" maxy="0.0"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="0.0" miny="0.0" maxx="0.0" maxy="0.0"></BoundingBox>
 				<Style>
-					<Name>estradas_vicinais_2_1</Name>
-					<Title>estradas_vicinais_2_1</Title>
+					<Name>ignition_Canastra_1</Name>
+					<Title>ignition_Canastra_1</Title>
 					<Abstract></Abstract>
 					<LegendURL width="20" height="20">
 						<Format>image/png</Format>
-						<OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maps.csr.ufmg.br:443/geoserver/wms?request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=estradas_vicinais_2"></OnlineResource>
+						<OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maps.csr.ufmg.br:443/geoserver/wms?request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=ignition_Canastra"></OnlineResource>
 					</LegendURL>
 				</Style>
 			</Layer>
 			<Layer queryable="1" opaque="0">
-				<Name>GH:yield_brazil_nut</Name>
-				<Title>GH:yield_brazil_nut</Title>
-				<Abstract>GH:yield_brazil_nut ABSTRACT</Abstract>
+				<Name>GH:ignition_Cerrado</Name>
+				<Title>GH:ignition_Cerrado</Title>
+				<Abstract>GH:ignition_Cerrado ABSTRACT</Abstract>
 				<KeywordList>
 					<Keyword>GITHUB</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="-75.19766390347665" miny="-16.512585275234958" maxx="-42.86164283301098" maxy="6.6146916323307305"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="-51.000474267489054" miny="-31.999942947332638" maxx="-51.000474267489054" maxy="-31.999942947332638"></BoundingBox>
+				<LatLonBoundingBox minx="-59.647" miny="-24.263000000000005" maxx="-42.09658" maxy="-2.89604"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="-42.09658" miny="-2.89604" maxx="-42.09658" maxy="-2.89604"></BoundingBox>
 				<Style>
-					<Name>yield_brazil_nut_1</Name>
-					<Title>yield_brazil_nut_1</Title>
+					<Name>ignition_Cerrado_1</Name>
+					<Title>ignition_Cerrado_1</Title>
 					<Abstract></Abstract>
 					<LegendURL width="20" height="20">
 						<Format>image/png</Format>
-						<OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maps.csr.ufmg.br:443/geoserver/wms?request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=yield_brazil_nut"></OnlineResource>
+						<OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maps.csr.ufmg.br:443/geoserver/wms?request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=ignition_Cerrado"></OnlineResource>
 					</LegendURL>
 				</Style>
 			</Layer>
 			<Layer queryable="1" opaque="0">
-				<Name>GH:yield_rubber</Name>
-				<Title>GH:yield_rubber</Title>
-				<Abstract>GH:yield_rubber ABSTRACT</Abstract>
+				<Name>GH:ignition_Veadeiros</Name>
+				<Title>GH:ignition_Veadeiros</Title>
+				<Abstract>GH:ignition_Veadeiros ABSTRACT</Abstract>
 				<KeywordList>
 					<Keyword>GITHUB</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="-77.79653314337475" miny="-19.558648900999163" maxx="-40.14485391924783" maxy="7.248424645932109"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="-51.00044420598293" miny="-31.999937481421167" maxx="-51.00044420598293" maxy="-31.999937481421167"></BoundingBox>
+				<LatLonBoundingBox minx="-47.72439" miny="-14.143911361700003" maxx="-47.6813316345" maxy="-14.114850000000002"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="-47.6813316345" miny="-14.11485" maxx="-47.6813316345" maxy="-14.11485"></BoundingBox>
 				<Style>
-					<Name>yield_rubber_1</Name>
-					<Title>yield_rubber_1</Title>
+					<Name>ignition_Veadeiros_1</Name>
+					<Title>ignition_Veadeiros_1</Title>
 					<Abstract></Abstract>
 					<LegendURL width="20" height="20">
 						<Format>image/png</Format>
-						<OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maps.csr.ufmg.br:443/geoserver/wms?request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=yield_rubber"></OnlineResource>
+						<OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maps.csr.ufmg.br:443/geoserver/wms?request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=ignition_Veadeiros"></OnlineResource>
 					</LegendURL>
 				</Style>
 			</Layer>
@@ -665,6 +785,46 @@
 					<LegendURL width="20" height="20">
 						<Format>image/png</Format>
 						<OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maps.csr.ufmg.br:443/geoserver/wms?request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=supressao"></OnlineResource>
+					</LegendURL>
+				</Style>
+			</Layer>
+			<Layer queryable="1" opaque="0">
+				<Name>GH:Bioma Cerrado</Name>
+				<Title>GH:Bioma Cerrado</Title>
+				<Abstract>GH:Bioma Cerrado ABSTRACT</Abstract>
+				<KeywordList>
+					<Keyword>GITHUB</Keyword>
+				</KeywordList>
+				<SRS>EPSG:4326</SRS>
+				<LatLonBoundingBox minx="-60.12059527271934" miny="-24.94802073614205" maxx="-38.51647499262785" maxy="-2.114473872903026"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="-0.0003459993817628493" miny="-1.8994641979001522e-05" maxx="-0.0003459993817628493" maxy="-1.8994641979001522e-05"></BoundingBox>
+				<Style>
+					<Name>Bioma Cerrado_1</Name>
+					<Title>Bioma Cerrado_1</Title>
+					<Abstract></Abstract>
+					<LegendURL width="20" height="20">
+						<Format>image/png</Format>
+						<OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maps.csr.ufmg.br:443/geoserver/wms?request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=Bioma Cerrado"></OnlineResource>
+					</LegendURL>
+				</Style>
+			</Layer>
+			<Layer queryable="1" opaque="0">
+				<Name>GH:Países</Name>
+				<Title>GH:Países</Title>
+				<Abstract>GH:Países ABSTRACT</Abstract>
+				<KeywordList>
+					<Keyword>GITHUB</Keyword>
+				</KeywordList>
+				<SRS>EPSG:4326</SRS>
+				<LatLonBoundingBox minx="-179.99999999990004" miny="-89.99999999990007" maxx="179.9999998804901" maxy="83.66549110393127"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="179.9999998804901" miny="83.66549110393127" maxx="179.9999998804901" maxy="83.66549110393127"></BoundingBox>
+				<Style>
+					<Name>Países_1</Name>
+					<Title>Países_1</Title>
+					<Abstract></Abstract>
+					<LegendURL width="20" height="20">
+						<Format>image/png</Format>
+						<OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maps.csr.ufmg.br:443/geoserver/wms?request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=Países"></OnlineResource>
 					</LegendURL>
 				</Style>
 			</Layer>
